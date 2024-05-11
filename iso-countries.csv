@@ -1,0 +1,259 @@
+Index,Country,ISO-3166 Code,CC Num,Region Number,Population,Users,User %,GDP p.c. (USD),Sub-Region,Region
+1,Afghanistan,AF,4,34,38928346,5313081,13.65%,$500,Southern Asia,Asia
+2,Aland Islands,AX,248,154,29013,15957,55.00%,$0,Northern Europe,Europe
+3,Albania,AL,8,39,2877797,2296867,79.81%,"$4,122",Southern Europe,Europe
+4,Algeria,DZ,12,15,43851044,24532023,55.94%,"$3,627",Northern Africa,Africa
+5,American Samoa,AS,16,61,55191,30355,55.00%,"$11,922",Polynesia,Oceania
+6,Andorra,AD,20,39,77265,77751,100.63%,"$36,996",Southern Europe,Europe
+7,Angola,AO,24,17,32866272,5306196,16.14%,"$2,900",Middle Africa,Africa
+8,Anguilla,AI,660,29,15003,12726,84.82%,$0,Caribbean,Americas
+9,Antartica,AQ,10,990,1169,642,54.92%,$0,Unclassified,
+10,Antigua and Barbuda,AG,28,29,97929,79507,81.19%,"$14,910",Caribbean,Americas
+11,Argentina,AR,32,5,45195774,37541388,83.06%,"$12,069",South America,Americas
+12,Armenia,AM,51,145,2963243,2338711,78.92%,"$3,567",Western Asia,Asia
+13,Aruba,AW,533,29,106766,111285,104.23%,"$24,206",Caribbean,Americas
+14,Asia Pacific code,AP,922,990,0,0,0.00%,$0,Unclassified,
+15,Australia,AU,36,53,25499884,22336713,87.60%,"$47,240",Australia and New Zealand,Oceania
+16,Austria,AT,40,155,9006398,8311232,92.28%,"$43,391",Western Europe,Europe
+17,Azerbaijan,AZ,31,145,10139177,8173617,80.61%,"$3,732",Western Asia,Asia
+18,Bahamas,BS,44,29,393244,361462,91.92%,"$28,638",Caribbean,Americas
+19,Bahrain,BH,48,145,1701575,1664182,97.80%,"$18,911",Western Asia,Asia
+20,Bangladesh,BD,50,34,164689383,33062068,20.08%,"$1,344",Southern Asia,Asia
+21,Barbados,BB,52,29,287375,248326,86.41%,"$15,760",Caribbean,Americas
+22,Belarus,BY,112,151,9449323,7596842,80.40%,"$5,016",Eastern Europe,Europe
+23,Belgium,BE,56,155,11589623,10417994,89.89%,"$40,377",Western Europe,Europe
+24,Belize,BZ,84,13,397628,205621,51.71%,"$4,378",Central America,Americas
+25,Benin,BJ,204,11,12123200,2051835,16.92%,$707,Western Africa,Africa
+26,Bermuda,BM,60,21,62278,61461,98.69%,"$89,497",Northern America,Americas
+27,Bhutan,BT,64,34,771608,436089,56.52%,"$2,867",Southern Asia,Asia
+28,Bolivia,BO,68,5,11673021,5940515,50.89%,"$2,896",South America,Americas
+29,"Bonaire, Sint Eustatius and Saba",BQ,535,29,26223,14422,55.00%,$0,Caribbean,Americas
+30,Bosnia and Herzegovina,BA,70,39,3280819,2773824,84.55%,"$5,154",Southern Europe,Europe
+31,Botswana,BW,72,18,2351627,1056272,44.92%,"$6,625",Southern Africa,Africa
+32,Bouvet Island,BV,74,990,0,0,0.00%,$0,Unclassified,
+33,Brazil,BR,76,5,212559417,162839097,76.61%,"$8,450",South America,Americas
+34,British Indian Ocean Territory,IO,86,990,0,0,0.00%,$0,Unclassified,
+35,British Virgin Islands,VG,92,29,30231,16627,55.00%,$0,Caribbean,Americas
+36,Brunei Darussalam,BN,96,35,437479,487299,111.39%,"$26,059",South-Eastern Asia,Asia
+37,Bulgaria,BG,100,151,6948445,4817911,69.34%,"$7,661",Eastern Europe,Europe
+38,Burkina Faso,BF,854,11,20903273,4094871,19.59%,$559,Western Africa,Africa
+39,Burundi,BI,108,14,11890784,741289,6.23%,$252,Eastern Africa,Africa
+40,Cambodia,KH,116,35,16718965,6966372,41.67%,"$1,197",South-Eastern Asia,Asia
+41,Cameroon,CM,120,17,26545863,6541234,24.64%,"$1,213",Middle Africa,Africa
+42,Canada,CA,124,21,37742154,36227208,95.99%,"$40,691",Northern America,Americas
+43,Cape Verde,CV,132,11,555987,386617,69.54%,"$2,909",Western Africa,Africa
+44,Cayman Islands,KY,136,29,65722,55649,84.67%,"$48,796",Caribbean,Americas
+45,Central African Republic,CF,140,17,4829767,229954,4.76%,$363,Middle Africa,Africa
+46,Ceuta and Melilla,EA,917,990,160852,88468,55.00%,$0,Unclassified,
+47,Chad,TD,148,17,16425864,1493811,9.09%,$584,Middle Africa,Africa
+48,Chile,CL,152,5,19116201,16360804,85.59%,"$12,922",South America,Americas
+49,China,CN,156,30,1439323776,823871288,57.24%,"$7,780",Eastern Asia,Asia
+50,Christmas Island,CX,162,990,2072,1139,54.97%,$0,Unclassified,
+51,Clipperton Island,CP,915,990,0,0,0.00%,$0,Unclassified,
+52,Cocos and Keeling Islands,CC,166,990,596,327,54.87%,$0,Unclassified,
+53,Colombia,CO,170,5,50882891,34809458,68.41%,"$5,551",South America,Americas
+54,Comoros,KM,174,14,869601,81937,9.42%,$709,Eastern Africa,Africa
+55,Congo,CG,178,17,5518087,534153,9.68%,"$1,419",Middle Africa,Africa
+56,Cook Islands,CK,184,61,17564,9788,55.73%,$0,Polynesia,Oceania
+57,Costa Rica,CR,188,13,5094118,4158386,81.63%,"$11,274",Central America,Americas
+58,Cote d'Ivoire,CI,384,11,26378274,12770255,48.41%,"$1,378",Western Africa,Africa
+59,Croatia,HR,191,39,4105267,2558198,62.32%,"$12,353",Southern Europe,Europe
+60,Cuba,CU,192,29,11326616,6730207,59.42%,"$7,692",Caribbean,Americas
+61,Curacao,CW,531,29,164093,90251,55.00%,$0,Caribbean,Americas
+62,Cyprus,CY,196,145,1207359,1070393,88.66%,"$16,604",Western Asia,Asia
+63,Czech Republic,CZ,203,151,0,0,0.00%,$0,Eastern Europe,Europe
+64,Democratic People's Republic of Korea,KP,408,30,25778816,51557,0.20%,$0,Eastern Asia,Asia
+65,Democratic Republic of the Congo,CD,180,17,89561403,11419812,12.75%,$395,Middle Africa,Africa
+66,Denmark,DK,208,154,5792202,5654281,97.62%,"$52,984",Northern Europe,Europe
+67,Djibouti,DJ,262,14,988000,1042437,105.51%,"$1,747",Eastern Africa,Africa
+68,Dominica,DM,212,29,71986,53090,73.75%,"$8,077",Caribbean,Americas
+69,Dominican Republic,DO,214,29,10847910,7795349,71.86%,"$6,598",Caribbean,Americas
+70,Ecuador,EC,218,5,17643054,11289337,63.99%,"$5,589",South America,Americas
+71,Egypt,EG,818,15,102334404,52540048,51.34%,"$3,251",Northern Africa,Africa
+72,El Salvador,SV,222,13,6486205,2284455,35.22%,"$4,131",Central America,Americas
+73,Equatorial Guinea,GQ,226,17,1402985,426626,30.41%,"$7,615",Middle Africa,Africa
+74,Eritrea,ER,232,14,3546421,52237,1.47%,$735,Eastern Africa,Africa
+75,Estonia,EE,233,154,1326535,1182442,89.14%,"$17,593",Northern Europe,Europe
+76,Ethiopia,ET,231,14,114963588,26619096,23.15%,$629,Eastern Africa,Africa
+77,European Union,EU,921,155,0,0,0.00%,$0,Western Europe,Europe
+78,Faeroe Islands,FO,234,154,48863,49352,101.00%,"$50,687",Northern Europe,Europe
+79,Falkland Islands,FK,238,5,3480,3459,99.40%,$0,South America,Americas
+80,Fiji,FJ,242,54,896445,505070,56.34%,"$5,246",Melanesia,Oceania
+81,Finland,FI,246,154,5540720,4876878,88.02%,"$43,077",Northern Europe,Europe
+82,France,FR,250,155,65273511,53937499,82.63%,"$37,771",Western Europe,Europe
+83,French Guiana,GF,254,5,298682,164275,55.00%,$0,South America,Americas
+84,French Polynesia,PF,258,61,280908,224301,79.85%,"$12,272",Polynesia,Oceania
+85,French Southern Territories,TF,260,990,0,0,0.00%,$0,Unclassified,
+86,Gabon,GA,266,17,2225734,1205514,54.16%,"$6,386",Middle Africa,Africa
+87,Gambia,GM,270,11,2416668,542588,22.45%,$399,Western Africa,Africa
+88,Georgia,GE,268,145,3989167,2737712,68.63%,"$3,604",Western Asia,Asia
+89,Germany,DE,276,155,83783942,70713647,84.40%,"$41,509",Western Europe,Europe
+90,Ghana,GH,288,11,31072940,13514266,43.49%,"$1,373",Western Africa,Africa
+91,Gibraltar,GI,292,39,33691,37514,111.35%,$0,Southern Europe,Europe
+92,Great Britain code,UK,901,154,0,0,0.00%,$0,Northern Europe,Europe
+93,Greece,GR,300,39,10423054,7520062,72.15%,"$18,486",Southern Europe,Europe
+94,Greenland,GL,304,21,56770,40404,71.17%,"$39,111",Northern America,Americas
+95,Grenada,GD,308,29,112523,72015,64.00%,"$9,386",Caribbean,Americas
+96,Guadeloupe,GP,312,29,400124,220068,55.00%,$0,Caribbean,Americas
+97,Guam,GU,316,57,168775,146469,86.78%,"$34,323",Micronesia,Oceania
+98,Guatemala,GT,320,13,17915568,9161071,51.13%,"$3,838",Central America,Americas
+99,Guernsey,GG,831,154,67131,34664,51.64%,"$47,779",Northern Europe,Europe
+100,Guinea,GN,324,11,13132795,1860551,14.17%,$624,Western Africa,Africa
+101,Guinea-Bissau,GW,624,11,1968001,82424,4.19%,$591,Western Africa,Africa
+102,Guyana,GY,328,5,786552,315602,40.12%,"$4,452",South America,Americas
+103,Haiti,HT,332,29,11402528,1415658,12.42%,$703,Caribbean,Americas
+104,Heard and McDonald Islands,HM,334,990,0,0,0.00%,$0,Unclassified,
+105,Historial and Legacy,ZZ,923,990,0,0,0.00%,$0,Unclassified,
+106,Holy See,VA,336,39,801,440,54.93%,$0,Southern Europe,Europe
+107,Honduras,HN,340,13,9904607,3556241,35.90%,"$2,172",Central America,Americas
+108,Hong Kong Special Administrative Region of China,HK,344,30,7496981,6978910,93.09%,"$42,805",Eastern Asia,Asia
+109,Hungary,HU,348,151,9660351,7502687,77.66%,"$13,024",Eastern Europe,Europe
+110,Iceland,IS,352,154,341243,335835,98.42%,"$59,500",Northern Europe,Europe
+111,India,IN,356,34,1380004385,583504313,42.28%,"$1,640",Southern Asia,Asia
+112,Indonesia,ID,360,35,273523615,115312623,42.16%,"$3,408",South-Eastern Asia,Asia
+113,Iran (Islamic Republic of),IR,364,34,83992949,61529883,73.26%,"$4,988",Southern Asia,Asia
+114,Iraq,IQ,368,145,40222493,33875691,84.22%,"$4,263",Western Asia,Asia
+115,Ireland,IE,372,154,4937786,4200895,85.08%,"$61,731",Northern Europe,Europe
+116,Isle of Man,IM,833,154,85033,46768,55.00%,"$79,879",Northern Europe,Europe
+117,Israel,IL,376,145,8655535,7367302,85.12%,"$36,710",Western Asia,Asia
+118,Italy,IT,380,39,60461826,38178504,63.14%,"$30,753",Southern Europe,Europe
+119,Jamaica,JM,388,29,2961167,1632832,55.14%,"$4,747",Caribbean,Americas
+120,Japan,JP,392,30,126476461,113144252,89.46%,"$39,131",Eastern Asia,Asia
+121,Jersey,JE,832,154,173863,95624,55.00%,"$47,779",Northern Europe,Europe
+122,Jordan,JO,400,145,10203134,7474492,73.26%,"$3,788",Western Asia,Asia
+123,Kazakhstan,KZ,398,143,18776707,15146441,80.67%,"$7,311",Central Asia,Asia
+124,Kenya,KE,404,14,53771296,10315273,19.18%,"$1,311",Eastern Africa,Africa
+125,Kiribati,KI,296,57,119449,19161,16.04%,"$1,519",Micronesia,Oceania
+126,Kuwait,KW,414,145,4270571,5172419,121.12%,"$25,962",Western Asia,Asia
+127,Kyrgyzstan,KG,417,143,6524195,2932304,44.95%,"$1,004",Central Asia,Asia
+128,Lao People's Democratic Republic,LA,418,35,7275560,2312455,31.78%,"$2,172",South-Eastern Asia,Asia
+129,Latvia,LV,428,154,1886198,1572625,83.38%,"$14,618",Northern Europe,Europe
+130,Lebanon,LB,422,145,6825445,5585395,81.83%,"$7,266",Western Asia,Asia
+131,Lesotho,LS,426,18,2142249,727311,33.95%,"$1,069",Southern Africa,Africa
+132,Liberia,LR,430,11,5057681,486255,9.61%,$415,Western Africa,Africa
+133,Libya,LY,434,15,6871292,1668278,24.28%,"$5,049",Northern Africa,Africa
+134,Liechtenstein,LI,438,155,38128,37733,98.96%,"$164,948",Western Europe,Europe
+135,Lithuania,LT,440,154,2722289,2260020,83.02%,"$15,712",Northern Europe,Europe
+136,Luxembourg,LU,442,155,625978,617258,98.61%,"$93,663",Western Europe,Europe
+137,Macao Special Administrative Region of China,MO,446,30,649335,567199,87.35%,"$69,780",Eastern Asia,Asia
+138,Madagascar,MG,450,14,27691018,4421862,15.97%,$361,Eastern Africa,Africa
+139,Malawi,MW,454,14,19129952,3389869,17.72%,$284,Eastern Africa,Africa
+140,Malaysia,MY,458,35,32365999,27847051,86.04%,"$9,161",South-Eastern Asia,Asia
+141,Maldives,MV,462,34,540544,381511,70.58%,"$7,814",Southern Asia,Asia
+142,Mali,ML,466,11,20250833,3038842,15.01%,$693,Western Africa,Africa
+143,Malta,MT,470,39,441543,371239,84.08%,"$24,910",Southern Europe,Europe
+144,Marshall Islands,MH,584,57,59190,32563,55.01%,"$3,285",Micronesia,Oceania
+145,Martinique,MQ,474,29,375265,206395,55.00%,$0,Caribbean,Americas
+146,Mauritania,MR,478,11,4649658,1192294,25.64%,"$1,019",Western Africa,Africa
+147,Mauritius,MU,480,14,1271768,772355,60.73%,"$9,568",Eastern Africa,Africa
+148,Mayotte,YT,175,14,272815,150048,55.00%,$0,Eastern Africa,Africa
+149,Metropolitan France,FX,249,155,0,0,0.00%,$0,Western Europe,Europe
+150,Mexico,MX,484,13,128932753,90490008,70.18%,"$8,119",Central America,Americas
+151,Micronesia (Federated States of),FM,583,57,115023,44382,38.59%,"$2,868",Micronesia,Oceania
+152,Monaco,MC,492,155,39242,39370,100.33%,"$154,805",Western Europe,Europe
+153,Mongolia,MN,496,30,3278290,829873,25.31%,"$3,411",Eastern Asia,Asia
+154,Montenegro,ME,499,39,628066,464466,73.95%,"$6,964",Southern Europe,Europe
+155,Montserrat,MS,500,29,4992,2745,54.99%,$0,Caribbean,Americas
+156,Morocco,MA,504,15,36910560,24555607,66.53%,"$2,806",Northern Africa,Africa
+157,Mozambique,MZ,508,14,31255435,7798487,24.95%,$352,Eastern Africa,Africa
+158,Myanmar,MM,104,35,54409800,21283448,39.12%,"$1,162",South-Eastern Asia,Asia
+159,Namibia,NA,516,18,2540905,1182610,46.54%,"$4,308",Southern Africa,Africa
+160,Nauru,NR,520,57,10824,5953,55.00%,"$9,429",Micronesia,Oceania
+161,Nepal,NP,524,34,29136808,7159136,24.57%,$725,Southern Asia,Asia
+162,Netherlands,NL,528,155,17134872,16394467,95.68%,"$45,359",Western Europe,Europe
+163,Netherlands Antilles,AN,530,29,227049,124876,55.00%,$0,Caribbean,Americas
+164,Neutral Zone,NT,536,990,0,0,0.00%,$0,Unclassified,
+165,New Caledonia,NC,540,54,285498,260442,91.22%,"$9,395",Melanesia,Oceania
+166,New Zealand,NZ,554,53,4822233,4514809,93.62%,"$38,357",Australia and New Zealand,Oceania
+167,Nicaragua,NI,558,13,6624554,2287444,34.53%,"$1,997",Central America,Americas
+168,Niger,NE,562,11,24206644,4366984,18.04%,$311,Western Africa,Africa
+169,Nigeria,NG,566,11,206139589,63280348,30.70%,"$1,963",Western Africa,Africa
+170,Niue,NU,570,61,1626,894,54.98%,$0,Polynesia,Oceania
+171,Norfolk Island,NF,574,53,2210,1215,54.98%,$0,Australia and New Zealand,Oceania
+172,Northern Mariana Islands,MP,580,57,57559,31657,55.00%,"$21,577",Micronesia,Oceania
+173,Norway,NO,578,154,5421241,5197118,95.87%,"$68,448",Northern Europe,Europe
+174,Oman,OM,512,145,5106626,4389912,85.97%,"$12,981",Western Asia,Asia
+175,Pakistan,PK,586,34,220892340,36148488,16.36%,"$1,262",Southern Asia,Asia
+176,Palau,PW,585,57,18094,9951,55.00%,"$17,146",Micronesia,Oceania
+177,Panama,PA,591,13,4314767,2761922,64.01%,"$12,790",Central America,Americas
+178,Papua New Guinea,PG,598,54,8947024,1254807,14.02%,"$2,259",Melanesia,Oceania
+179,Paraguay,PY,600,5,7132538,5143358,72.11%,"$3,844",South America,Americas
+180,Peru,PE,604,5,32971854,18148212,55.04%,"$5,829",South America,Americas
+181,Philippines,PH,608,35,109581078,72807344,66.44%,"$2,782",South-Eastern Asia,Asia
+182,Pitcairn,PN,612,61,50,27,54.00%,$0,Polynesia,Oceania
+183,Poland,PL,616,151,37846611,31098022,82.17%,"$12,454",Eastern Europe,Europe
+184,Portugal,PT,620,39,10196709,8030716,78.76%,"$20,122",Southern Europe,Europe
+185,Puerto Rico,PR,630,29,2860853,2305355,80.58%,"$36,714",Caribbean,Americas
+186,Qatar,QA,634,145,2881053,2839332,98.55%,"$52,915",Western Asia,Asia
+187,Republic of Korea,KR,410,30,51269185,50973756,99.42%,"$27,526",Eastern Asia,Asia
+188,Republic of Moldova,MD,498,151,4033963,3353567,83.13%,"$1,673",Eastern Europe,Europe
+189,Reunion,RE,638,14,895312,492421,55.00%,$0,Eastern Africa,Africa
+190,Romania,RO,642,151,19237691,13596369,70.68%,"$9,751",Eastern Europe,Europe
+191,Russian Federation,RU,643,151,145934462,118313773,81.07%,"$8,792",Eastern Europe,Europe
+192,Rwanda,RW,646,14,12952218,3241734,25.03%,$646,Eastern Africa,Africa
+193,Saint Barthelemy,BL,652,29,9279,5103,55.00%,$0,Caribbean,Americas
+194,"Saint Helena, Ascension, and Tristan da Cunha",SH,654,11,6077,3342,54.99%,$0,Western Africa,Africa
+195,Saint Kitts and Nevis,KN,659,29,53199,45661,85.83%,"$17,102",Caribbean,Americas
+196,Saint Lucia,LC,662,29,183627,106409,57.95%,"$9,078",Caribbean,Americas
+197,Saint Martin (French part),MF,663,29,36824,20253,55.00%,$0,Caribbean,Americas
+198,Saint Pierre and Miquelon,PM,666,21,5794,3186,54.99%,$0,Northern America,Americas
+199,Saint Vincent and the Grenadines,VC,670,29,110940,87998,79.32%,"$6,924",Caribbean,Americas
+200,Samoa,WS,882,61,198414,80850,40.75%,"$3,963",Polynesia,Oceania
+201,San Marino,SM,674,39,33931,18662,55.00%,"$46,880",Southern Europe,Europe
+202,Sao Tome and Principe,ST,678,17,219159,73109,33.36%,"$1,564",Middle Africa,Africa
+203,Saudi Arabia,SA,682,145,34813871,32536035,93.46%,"$18,568",Western Asia,Asia
+204,Senegal,SN,686,11,16743927,6095246,36.40%,$876,Western Africa,Africa
+205,Serbia,RS,688,39,8737371,6555415,75.03%,"$5,144",Southern Europe,Europe
+206,Seychelles,SC,690,14,98347,61683,62.72%,"$14,513",Eastern Africa,Africa
+207,Sierra Leone,SL,694,11,7976983,1434658,17.98%,$468,Western Africa,Africa
+208,Singapore,SG,702,35,5850342,5116443,87.46%,"$50,762",South-Eastern Asia,Asia
+209,Sint Maarten (Dutch part),SX,534,29,42876,23581,55.00%,$0,Caribbean,Americas
+210,Slovakia,SK,703,151,5459642,4615590,84.54%,"$16,442",Eastern Europe,Europe
+211,Slovenia,SI,705,39,2078938,1750545,84.20%,"$21,505",Southern Europe,Europe
+212,Solomon Islands,SB,90,54,686884,92826,13.51%,"$1,750",Melanesia,Oceania
+213,Somalia,SO,706,14,15893222,345351,2.17%,$391,Eastern Africa,Africa
+214,South Africa,ZA,710,18,59308690,35553939,59.95%,"$4,981",Southern Africa,Africa
+215,South Georgia and South Sandwich Islands,GS,239,990,0,0,0.00%,$0,Unclassified,
+216,South Sudan,SS,728,15,11193725,1140720,10.19%,$805,Northern Africa,Africa
+217,Spain,ES,724,39,46754778,42223013,90.31%,"$26,462",Southern Europe,Europe
+218,Sri Lanka,LK,144,34,21413249,8054950,37.62%,"$3,797",Southern Asia,Asia
+219,State of Palestine,PS,275,145,5101414,3673157,72.00%,"$2,626",Western Asia,Asia
+220,Sudan,SD,736,15,43849260,15369525,35.05%,"$2,179",Northern Africa,Africa
+221,Suriname,SR,740,5,586632,319329,54.43%,"$5,588",South America,Americas
+222,Svalbard and Jan Mayen Islands,SJ,744,154,0,0,0.00%,$0,Northern Europe,Europe
+223,Swaziland,SZ,748,18,0,0,0.00%,$0,Southern Africa,Africa
+224,Sweden,SE,752,154,10099265,10463473,103.61%,"$50,940",Northern Europe,Europe
+225,Switzerland,CH,756,155,8654622,8648237,99.93%,"$77,282",Western Europe,Europe
+226,Syrian Arab Republic,SY,760,145,17500658,6678700,38.16%,"$2,308",Western Asia,Asia
+227,Taiwan,TW,158,30,23816775,25932758,108.88%,"$22,053",Eastern Asia,Asia
+228,Tajikistan,TJ,762,143,9537645,2345713,24.59%,$728,Central Asia,Asia
+229,Thailand,TH,764,35,69799978,44569765,63.85%,"$5,831",South-Eastern Asia,Asia
+230,The former Yugoslav Republic of Macedonia,MK,807,39,0,0,0.00%,$0,Southern Europe,Europe
+231,Timor-Leste,TL,626,35,1318445,414258,31.42%,"$1,352",South-Eastern Asia,Asia
+232,Togo,TG,768,11,8278724,1332015,16.09%,$531,Western Africa,Africa
+233,Tokelau,TK,772,61,1357,746,54.97%,$0,Polynesia,Oceania
+234,Tonga,TO,776,61,105695,45800,43.33%,"$3,799",Polynesia,Oceania
+235,Trinidad and Tobago,TT,780,29,1399488,1179428,84.28%,"$15,644",Caribbean,Americas
+236,Tunisia,TN,788,15,11818619,7574540,64.09%,"$3,559",Northern Africa,Africa
+237,Turkey,TR,792,145,84339067,63027552,74.73%,"$10,240",Western Asia,Asia
+238,Turkmenistan,TM,795,143,6031200,1618437,26.83%,"$5,998",Central Asia,Asia
+239,Turks and Caicos Islands,TC,796,29,38717,21294,55.00%,$0,Caribbean,Americas
+240,Tuvalu,TV,798,61,11792,6486,55.00%,"$2,901",Polynesia,Oceania
+241,Uganda,UG,800,14,45741007,12871094,28.14%,$526,Eastern Africa,Africa
+242,Ukraine,UA,804,151,43733762,28073131,64.19%,"$2,132",Eastern Europe,Europe
+243,United Arab Emirates,AE,784,145,9890402,9860757,99.70%,"$35,260",Western Asia,Asia
+244,United Kingdom of Great Britain and Northern Ireland,GB,826,154,67886011,65237714,96.10%,"$39,048",Northern Europe,Europe
+245,United Republic of Tanzania,TZ,834,14,59734218,12656799,21.19%,$792,Eastern Africa,Africa
+246,United States Minor Outlying Islands,UM,581,990,0,0,0.00%,$0,Unclassified,
+247,United States Virgin Islands,VI,850,29,104425,75918,72.70%,"$36,054",Caribbean,Americas
+248,United States of America,US,840,21,331002651,250058937,75.55%,"$56,266",Northern America,Americas
+249,Uruguay,UY,858,5,3473730,2484704,71.53%,"$15,090",South America,Americas
+250,Uzbekistan,UZ,860,143,33469203,20398656,60.95%,"$2,008",Central Asia,Asia
+251,Vanuatu,VU,548,54,307145,87789,28.58%,"$2,518",Melanesia,Oceania
+252,Venezuela,VE,862,5,28435940,19694141,69.26%,"$16,963",South America,Americas
+253,Vietnam,VN,704,35,97338579,53442603,54.90%,"$2,108",South-Eastern Asia,Asia
+254,Wallis and Futuna Islands,WF,876,61,11239,6181,55.00%,$0,Polynesia,Oceania
+255,Western Sahara,EH,732,15,597339,328536,55.00%,$0,Northern Africa,Africa
+256,Yemen,YE,887,145,29825964,8771685,29.41%,$915,Western Asia,Asia
+257,Zambia,ZM,894,14,18383955,6114774,33.26%,"$1,145",Eastern Africa,Africa
+258,Zimbabwe,ZW,716,14,14862924,4747607,31.94%,"$1,118",Eastern Africa,Africa
