@@ -7,12 +7,10 @@ Index,Country,ISO-3166 Code,CC Num,Region Number,Population,Users,User %,GDP p.c
 6,Andorra,AD,20,39,77265,77751,100.63%,"$36,996",Southern Europe,Europe
 7,Angola,AO,24,17,32866272,5306196,16.14%,"$2,900",Middle Africa,Africa
 8,Anguilla,AI,660,29,15003,12726,84.82%,$0,Caribbean,Americas
-9,Antartica,AQ,10,990,1169,642,54.92%,$0,Unclassified,
 10,Antigua and Barbuda,AG,28,29,97929,79507,81.19%,"$14,910",Caribbean,Americas
 11,Argentina,AR,32,5,45195774,37541388,83.06%,"$12,069",South America,Americas
 12,Armenia,AM,51,145,2963243,2338711,78.92%,"$3,567",Western Asia,Asia
 13,Aruba,AW,533,29,106766,111285,104.23%,"$24,206",Caribbean,Americas
-14,Asia Pacific code,AP,922,990,0,0,0.00%,$0,Unclassified,
 15,Australia,AU,36,53,25499884,22336713,87.60%,"$47,240",Australia and New Zealand,Oceania
 16,Austria,AT,40,155,9006398,8311232,92.28%,"$43,391",Western Europe,Europe
 17,Azerbaijan,AZ,31,145,10139177,8173617,80.61%,"$3,732",Western Asia,Asia
@@ -44,13 +42,12 @@ Index,Country,ISO-3166 Code,CC Num,Region Number,Population,Users,User %,GDP p.c
 43,Cape Verde,CV,132,11,555987,386617,69.54%,"$2,909",Western Africa,Africa
 44,Cayman Islands,KY,136,29,65722,55649,84.67%,"$48,796",Caribbean,Americas
 45,Central African Republic,CF,140,17,4829767,229954,4.76%,$363,Middle Africa,Africa
-46,Ceuta and Melilla,EA,917,990,160852,88468,55.00%,$0,Unclassified,
 47,Chad,TD,148,17,16425864,1493811,9.09%,$584,Middle Africa,Africa
 48,Chile,CL,152,5,19116201,16360804,85.59%,"$12,922",South America,Americas
 49,China,CN,156,30,1439323776,823871288,57.24%,"$7,780",Eastern Asia,Asia
 50,Christmas Island,CX,162,990,2072,1139,54.97%,$0,Unclassified,
 51,Clipperton Island,CP,915,990,0,0,0.00%,$0,Unclassified,
-52,Cocos and Keeling Islands,CC,166,990,596,327,54.87%,$0,Unclassified,
+52,Cocos (Keeling) Islands,CC,166,990,596,327,54.87%,$0,Unclassified,
 53,Colombia,CO,170,5,50882891,34809458,68.41%,"$5,551",South America,Americas
 54,Comoros,KM,174,14,869601,81937,9.42%,$709,Eastern Africa,Africa
 55,Congo,CG,178,17,5518087,534153,9.68%,"$1,419",Middle Africa,Africa
@@ -90,7 +87,6 @@ Index,Country,ISO-3166 Code,CC Num,Region Number,Population,Users,User %,GDP p.c
 89,Germany,DE,276,155,83783942,70713647,84.40%,"$41,509",Western Europe,Europe
 90,Ghana,GH,288,11,31072940,13514266,43.49%,"$1,373",Western Africa,Africa
 91,Gibraltar,GI,292,39,33691,37514,111.35%,$0,Southern Europe,Europe
-92,Great Britain code,UK,901,154,0,0,0.00%,$0,Northern Europe,Europe
 93,Greece,GR,300,39,10423054,7520062,72.15%,"$18,486",Southern Europe,Europe
 94,Greenland,GL,304,21,56770,40404,71.17%,"$39,111",Northern America,Americas
 95,Grenada,GD,308,29,112523,72015,64.00%,"$9,386",Caribbean,Americas
@@ -103,10 +99,9 @@ Index,Country,ISO-3166 Code,CC Num,Region Number,Population,Users,User %,GDP p.c
 102,Guyana,GY,328,5,786552,315602,40.12%,"$4,452",South America,Americas
 103,Haiti,HT,332,29,11402528,1415658,12.42%,$703,Caribbean,Americas
 104,Heard and McDonald Islands,HM,334,990,0,0,0.00%,$0,Unclassified,
-105,Historial and Legacy,ZZ,923,990,0,0,0.00%,$0,Unclassified,
 106,Holy See,VA,336,39,801,440,54.93%,$0,Southern Europe,Europe
 107,Honduras,HN,340,13,9904607,3556241,35.90%,"$2,172",Central America,Americas
-108,Hong Kong Special Administrative Region of China,HK,344,30,7496981,6978910,93.09%,"$42,805",Eastern Asia,Asia
+108,Hong Kong,HK,344,30,7496981,6978910,93.09%,"$42,805",Eastern Asia,Asia
 109,Hungary,HU,348,151,9660351,7502687,77.66%,"$13,024",Eastern Europe,Europe
 110,Iceland,IS,352,154,341243,335835,98.42%,"$59,500",Northern Europe,Europe
 111,India,IN,356,34,1380004385,583504313,42.28%,"$1,640",Southern Asia,Asia
@@ -135,7 +130,7 @@ Index,Country,ISO-3166 Code,CC Num,Region Number,Population,Users,User %,GDP p.c
 134,Liechtenstein,LI,438,155,38128,37733,98.96%,"$164,948",Western Europe,Europe
 135,Lithuania,LT,440,154,2722289,2260020,83.02%,"$15,712",Northern Europe,Europe
 136,Luxembourg,LU,442,155,625978,617258,98.61%,"$93,663",Western Europe,Europe
-137,Macao Special Administrative Region of China,MO,446,30,649335,567199,87.35%,"$69,780",Eastern Asia,Asia
+137,Macao,MO,446,30,649335,567199,87.35%,"$69,780",Eastern Asia,Asia
 138,Madagascar,MG,450,14,27691018,4421862,15.97%,$361,Eastern Africa,Africa
 139,Malawi,MW,454,14,19129952,3389869,17.72%,$284,Eastern Africa,Africa
 140,Malaysia,MY,458,35,32365999,27847051,86.04%,"$9,161",South-Eastern Asia,Asia
@@ -162,7 +157,6 @@ Index,Country,ISO-3166 Code,CC Num,Region Number,Population,Users,User %,GDP p.c
 161,Nepal,NP,524,34,29136808,7159136,24.57%,$725,Southern Asia,Asia
 162,Netherlands,NL,528,155,17134872,16394467,95.68%,"$45,359",Western Europe,Europe
 163,Netherlands Antilles,AN,530,29,227049,124876,55.00%,$0,Caribbean,Americas
-164,Neutral Zone,NT,536,990,0,0,0.00%,$0,Unclassified,
 165,New Caledonia,NC,540,54,285498,260442,91.22%,"$9,395",Melanesia,Oceania
 166,New Zealand,NZ,554,53,4822233,4514809,93.62%,"$38,357",Australia and New Zealand,Oceania
 167,Nicaragua,NI,558,13,6624554,2287444,34.53%,"$1,997",Central America,Americas
@@ -220,7 +214,7 @@ Index,Country,ISO-3166 Code,CC Num,Region Number,Population,Users,User %,GDP p.c
 219,State of Palestine,PS,275,145,5101414,3673157,72.00%,"$2,626",Western Asia,Asia
 220,Sudan,SD,736,15,43849260,15369525,35.05%,"$2,179",Northern Africa,Africa
 221,Suriname,SR,740,5,586632,319329,54.43%,"$5,588",South America,Americas
-222,Svalbard and Jan Mayen Islands,SJ,744,154,0,0,0.00%,$0,Northern Europe,Europe
+222,Svalbard,SJ,744,154,0,0,0.00%,$0,Northern Europe,Europe
 223,Swaziland,SZ,748,18,0,0,0.00%,$0,Southern Africa,Africa
 224,Sweden,SE,752,154,10099265,10463473,103.61%,"$50,940",Northern Europe,Europe
 225,Switzerland,CH,756,155,8654622,8648237,99.93%,"$77,282",Western Europe,Europe
@@ -228,7 +222,7 @@ Index,Country,ISO-3166 Code,CC Num,Region Number,Population,Users,User %,GDP p.c
 227,Taiwan,TW,158,30,23816775,25932758,108.88%,"$22,053",Eastern Asia,Asia
 228,Tajikistan,TJ,762,143,9537645,2345713,24.59%,$728,Central Asia,Asia
 229,Thailand,TH,764,35,69799978,44569765,63.85%,"$5,831",South-Eastern Asia,Asia
-230,The former Yugoslav Republic of Macedonia,MK,807,39,0,0,0.00%,$0,Southern Europe,Europe
+230,North Macedonia,MK,807,39,0,0,0.00%,$0,Southern Europe,Europe
 231,Timor-Leste,TL,626,35,1318445,414258,31.42%,"$1,352",South-Eastern Asia,Asia
 232,Togo,TG,768,11,8278724,1332015,16.09%,$531,Western Africa,Africa
 233,Tokelau,TK,772,61,1357,746,54.97%,$0,Polynesia,Oceania
